@@ -1,3 +1,4 @@
 Hallo, dit is versie-1 van jan1.txt
 dit is de tweede regel
 Dit is stap 5 van githuiswerk deel 2
+dit is stap 7 bewerkt door gino
